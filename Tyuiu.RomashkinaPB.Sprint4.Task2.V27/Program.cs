@@ -8,7 +8,7 @@ namespace Tyuiu.RomashkinaPB.Sprint4.Task2.V27
         {
             DataService ds = new DataService();
             Random rnd = new Random();
-            Console.Title = "Спринт #3 | Выполнила: Ромашкина П. Б. | АСОиУб-26-1";
+            Console.Title = "Спринт #4 | Выполнила: Ромашкина П. Б. | АСОиУб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт # 4                                                              *");
             Console.WriteLine("* Тема: Одномерные массивы (генератор случайных чисел)                    *");
